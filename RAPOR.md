@@ -25,8 +25,8 @@ geçerli katta 1 7 ye gitme örneği " asansörümüz 1 den 7 ye yukarı haraket
 
 ```
 1.eğer(if)
-2.
-3.
+2.return
+3.Scanner
 ```
 
 ## 4. Akış Şeması
